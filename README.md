@@ -74,8 +74,8 @@ This project focuses on simplifying personal finance management with a modern UI
 
 ## 🌐 Live Demo
 
-Frontend: _Coming Soon_  
-Backend API: _Coming Soon_
+Vercel: [Finora - Vercel](https://finova-navy.vercel.app)
+Backend API: [Finora - Render](https://finova-p4cy.onrender.com)
 
 ---
 
