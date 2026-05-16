@@ -61,13 +61,24 @@ This project focuses on simplifying personal finance management with a modern UI
 
 ## 📸 Screenshots
 
+### Desktop
+
 ![AuthPageDesktop](screenshots/authpage_desktop.jpg)
+
 ![OverviewPageDesktop](screenshots/overviewpage_desktop.jpg)
+
 ![TransactionsPageDesktop](screenshots/transactionspage_desktop.jpg)
+
 ![BudgetsPageDesktop](screenshots/budgetspage_desktop.jpg)
+
 ![PotsPageDesktop](screenshots/potspage_desktop.jpg)
+
 ![BillsPageDesktop](screenshots/billspage_desktop.jpg)
+
 ![ProfilePageDesktop](screenshots/profilepage_desktop.jpg)
+
+### Mobile
+
 ![OverviewPageMobile](screenshots/overviewpage_mobile.jpg)
 
 ---
