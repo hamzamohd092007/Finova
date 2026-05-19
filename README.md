@@ -94,7 +94,7 @@ Backend API: [Finora - Render](https://finova-p4cy.onrender.com)
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/finova.git
+git clone https://github.com/hamzamohd092007/finova.git
 
 # Navigate to project folder
 cd Finova
